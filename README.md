@@ -1,6 +1,6 @@
-# Traffic Accidents Data Analysis
+# Traffic Accidents Analysis using Correlation Analysis & Feature Analysis
 
-This repository contains a Jupyter notebook that demonstrates various data preprocessing and visualization techniques using a traffic accidents dataset. The dataset is downloaded from OpenML (data_id=42803) and analyzed using Python libraries such as Pandas, Matplotlib, Seaborn, and Missingno.
+This project demonstrates various data preprocessing and visualization techniques using a traffic accidents dataset. The dataset is downloaded from OpenML (data_id=42803) and analyzed using Python libraries such as Pandas, Matplotlib, Seaborn, and Missingno.
 
 ## Requirements
 
