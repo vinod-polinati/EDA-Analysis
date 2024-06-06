@@ -1,4 +1,4 @@
-# EDA-Mone
+# Traffic Accidents Data Analysis
 
 This repository contains a Jupyter notebook that demonstrates various data preprocessing and visualization techniques using a traffic accidents dataset. The dataset is downloaded from OpenML (data_id=42803) and analyzed using Python libraries such as Pandas, Matplotlib, Seaborn, and Missingno.
 
@@ -24,13 +24,13 @@ pip install pandas numpy scikit-learn matplotlib seaborn missingno
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/EDA-Mone.git
+git clone https://github.com/your-username/EDA-analysis.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd EDA-Mone
+cd EDA-analysis
 ```
 
 3. Open the Jupyter notebook:
